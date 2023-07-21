@@ -43,7 +43,7 @@ jobs:
       - name: Git configuration
         run: |
           git config --global user.email "felipe.so.dev@gmail.com"
-          git config --global user.name "GitHub Actions"
+          git config --global user.name "felipe-frade"
           
       # Configure Git
       - name: Release
