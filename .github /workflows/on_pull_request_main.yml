@@ -1,0 +1,43 @@
+name: 'Pull request main - v1'
+on:
+  push:
+    branches:
+      - main
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+    
+      # Checkout project repository
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      # Configure Git
+      - name: Git configuration
+        run: |
+          git config --global user.email "felipe.so.dev@gmail.com"
+          git config --global user.name "GitHub Actions"
+          
+      # Pega a versão do "package.json"
+      - name: get-npm-version
+        id: package-version
+        uses: martinbeentjes/npm-get-version-action@v1.3.1
+        
+      # Drafts your next Release notes as Pull Requests are merged into "main"
+      - uses: release-drafter/release-drafter@v5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      # Cria a nova tag release
+#       - name: Create Release
+#         id: create_release
+#         uses: actions/create-release@latest
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+#         with:
+#           tag_name: ${{ steps.package-version.outputs.current-version }}
+#           release_name: ${{ steps.package-version.outputs.current-version }}
+#           body: |
+#             Conteúdo disponível no arquivo "CHANGELOG.md"
+#           draft: false
+#           prerelease: false
