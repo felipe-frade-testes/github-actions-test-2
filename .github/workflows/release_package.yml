@@ -55,4 +55,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
         run: |
-          git push origin && git push --tags
+          git push origin
