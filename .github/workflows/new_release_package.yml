@@ -48,6 +48,12 @@ jobs:
       - name: Release
         run: |
           npm version ${{ github.event.inputs.release-type }}
+      
+      # Configura changelog
+      - name: Changelog configuration
+        run: |
+          npm run version
+          npm run version-json
 
       # Push repository changes
       - name: Push changes to repository
