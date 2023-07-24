@@ -14,7 +14,7 @@
   },
   "version": "1.10.0",
   "scripts": {
-    "version": "auto-changelog -p --template changelog-template.hbs --commit-limit false && git add CHANGELOG.md",
+    "version": "auto-changelog -p --commit-limit false && git add CHANGELOG.md",
     "version-json": "auto-changelog --template json --output changelog-data.json"
   },
   "dependencies": {
