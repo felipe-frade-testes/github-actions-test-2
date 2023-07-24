@@ -12,7 +12,7 @@
       "hotfix\\(": ""
     }
   },
-  "version": "1.5.0",
+  "version": "1.6.0",
   "scripts": {
     "version": "auto-changelog -p --template changelog-template.hbs --unreleased --commit-limit 200 && git add CHANGELOG.md",
     "version-json": "auto-changelog --template json --output changelog-data.json"
