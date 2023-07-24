@@ -1,9 +1,20 @@
 {
   "name": "teste",
+  "auto-changelog": {
+    "replaceText": {
+      "feat: ": "",
+      "feat(.+-\\d+)": "[`$1`](https://issues.apache.org/jira/browse/$1)",
+      "fix: ": "",
+      "fix(.+-\\d+)": "[`$1`](https://issues.apache.org/jira/browse/$1)",
+      "hotfix: ": "",
+      "hotfix(.+-\\d+)": "[`$1`](https://issues.apache.org/jira/browse/$1)"
+    }
+  },
   "version": "1.2.0",
   "scripts": {
-    "version": "auto-changelog -p && git add CHANGELOG.md"
+    "version": "auto-changelog -p --template changelog-template.hbs && git add CHANGELOG.md"
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "auto-changelog": "^2.4.0"
+  }
 }
