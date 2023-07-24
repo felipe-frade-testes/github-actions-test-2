@@ -53,6 +53,13 @@ jobs:
           npm run version
           npm run version-json
           
+      # Push repository changes
+      - name: Push changes to repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+        run: |
+          git push origin
+          
       # Pega a versão do "package.json"
       - name: get-npm-version
         id: package-version
