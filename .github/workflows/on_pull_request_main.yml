@@ -21,8 +21,8 @@ jobs:
       # Configura changelog
       - name: Changelog configuration
         run: |
-          auto-changelog --template changelog-template.hbs
-          auto-changelog --template json --output changelog-data.json
+          npm run version
+          npm run version-json
           
       # Pega a versão do "package.json"
       - name: get-npm-version
