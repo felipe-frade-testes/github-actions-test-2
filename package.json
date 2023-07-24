@@ -2,12 +2,14 @@
   "name": "teste",
   "auto-changelog": {
     "replaceText": {
+      "(\\w+-\\d+)": "[`$1`](https://issues.apache.org/jira/browse/$1)",
+      "\\):": "",
       "feat: ": "",
-      "feat(.+-\\d+)": "[`$1`](https://issues.apache.org/jira/browse/$1)",
+      "feat\\(": "",
       "fix: ": "",
-      "fix(.+-\\d+)": "[`$1`](https://issues.apache.org/jira/browse/$1)",
+      "fix\\(": "",
       "hotfix: ": "",
-      "hotfix(.+-\\d+)": "[`$1`](https://issues.apache.org/jira/browse/$1)"
+      "hotfix\\(": ""
     }
   },
   "version": "1.2.0",
