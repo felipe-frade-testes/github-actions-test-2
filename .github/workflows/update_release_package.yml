@@ -9,8 +9,6 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-    
-      # Checkout project repository
       - name: Checkout
         uses: actions/checkout@v3
 
