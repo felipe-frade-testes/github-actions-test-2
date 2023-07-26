@@ -82,16 +82,16 @@ jobs:
 #           bump_version_scheme: 
       
       # Cria a nova tag release
-#       - name: Create Release
-#         id: create_release
-#         uses: actions/create-release@latest
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }} # This token is provided by Actions, you do not need to create your own token
-#         with:
-#           tag_name: ${{ steps.package-version.outputs.current-version }}
-#           release_name: ${{ steps.package-version.outputs.current-version }}
-#           body: |
-#             Conteúdo disponível no arquivo "CHANGELOG.md"
-#             https://github.com/felipe-frade/github-actions-test-2/blob/${{ steps.package-version.outputs.current-version }}/CHANGELOG.md#Versão-${{ steps.package-version.outputs.current-version }}
-#           draft: false
-#           prerelease: false
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          tag_name: ${{ steps.package-version.outputs.current-version }}
+          release_name: ${{ steps.package-version.outputs.current-version }}
+          body: |
+            Conteúdo disponível no arquivo "CHANGELOG.md"
+            https://github.com/felipe-frade/github-actions-test-2/blob/${{ steps.package-version.outputs.current-version }}/CHANGELOG.md#Versão-${{ steps.package-version.outputs.current-version }}
+          draft: false
+          prerelease: false
