@@ -53,6 +53,7 @@ jobs:
       # npm run version
       - name: Changelog configuration
         run: |
+          git fetch --prune --unshallow
           git log --oneline
           npm install -g auto-changelog
           auto-changelog -p --template changelog-template.hbs --commit-limit false && git add CHANGELOG.md
