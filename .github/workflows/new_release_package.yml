@@ -82,3 +82,15 @@ jobs:
           get_diff: true
           ignore_users: "dependabot"
           allow_no_diff: false
+      
+      # Create release
+      - name: Create Release
+        id: create_release
+        uses: rymndhng/release-on-push-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+        with:
+          tag_prefix: ""
+          release_name: ${{ steps.package-version.outputs.current-version }}
+          use_github_release_notes: true
+          bump_version_scheme: ${{ github.event.inputs.release-type }}
