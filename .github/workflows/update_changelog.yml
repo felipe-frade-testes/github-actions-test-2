@@ -44,7 +44,9 @@ jobs:
       # Configura changelog
       - name: Changelog configuration
         run: |
-          npm run version
+          git log --online
+          npm install -g auto-changelog
+          auto-changelog -p --template changelog-template.hbs --commit-limit false && git add CHANGELOG.md
           npm run version-json
       
       # Push repository changes
