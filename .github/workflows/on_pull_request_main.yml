@@ -70,27 +70,28 @@ jobs:
       #   env:
       #     GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
       
-      - name: Create Release
-        id: create_release
-        uses: rymndhng/release-on-push-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
-        with:
-          tag_name: ${{ steps.package-version.outputs.current-version }}
-          release_name: ${{ steps.package-version.outputs.current-version }}
-          use_github_release_notes: true
-      
-      # Cria a nova tag release
 #       - name: Create Release
 #         id: create_release
-#         uses: actions/create-release@latest
+#         uses: rymndhng/release-on-push-action@master
 #         env:
-#           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+#           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
 #         with:
 #           tag_name: ${{ steps.package-version.outputs.current-version }}
 #           release_name: ${{ steps.package-version.outputs.current-version }}
-#           body: |
-#             Conteúdo disponível no arquivo "CHANGELOG.md"
-#             https://github.com/felipe-frade/github-actions-test-2/blob/${{ steps.package-version.outputs.current-version }}/CHANGELOG.md#Versão-${{ steps.package-version.outputs.current-version }}
-#           draft: false
-#           prerelease: false
+#           use_github_release_notes: true
+      
+      # Cria a nova tag release
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          a: tes
+          tag_name: ${{ steps.package-version.outputs.current-version }}
+          release_name: ${{ steps.package-version.outputs.current-version }}
+          body: |
+            Conteúdo disponível no arquivo "CHANGELOG.md"
+            https://github.com/felipe-frade/github-actions-test-2/blob/${{ steps.package-version.outputs.current-version }}/CHANGELOG.md#Versão-${{ steps.package-version.outputs.current-version }}
+          draft: false
+          prerelease: false
