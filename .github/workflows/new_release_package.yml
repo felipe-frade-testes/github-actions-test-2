@@ -50,9 +50,11 @@ jobs:
           npm version ${{ github.event.inputs.release-type }}
       
       # Configura changelog
+      # npm run version
       - name: Changelog configuration
         run: |
-          npm run version
+          npm install -g auto-changelog
+          auto-changelog -p --template changelog-template.hbs --commit-limit false && git add CHANGELOG.md
           npm run version-json
 
       # Push repository changes
