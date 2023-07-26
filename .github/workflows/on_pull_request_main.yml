@@ -72,14 +72,13 @@ jobs:
       
       - name: Create Release
         id: create_release
+        uses: rymndhng/release-on-push-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
-        steps:
-          - uses: rymndhng/release-on-push-action@master
-            with:
-              tag_name: ${{ steps.package-version.outputs.current-version }}
-              release_name: ${{ steps.package-version.outputs.current-version }}
-              use_github_release_notes: true
+        with:
+          tag_name: ${{ steps.package-version.outputs.current-version }}
+          release_name: ${{ steps.package-version.outputs.current-version }}
+          use_github_release_notes: true
       
       # Cria a nova tag release
 #       - name: Create Release
