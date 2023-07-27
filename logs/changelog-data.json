@@ -1,1 +1,1224 @@
 
+{
+ "commit": "52fe396827037e2ed901ebcd254d70fedcc2dbd1",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Thu Jul 27 00:58:55 2023 -0300",
+ "message": "Merge-pull-request-29-from-felipe-frade-release"
+},
+
+{
+ "commit": "bf0110afe5acce2fdece3bfbbe7bfc0271aeb5ff",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Thu Jul 27 03:58:29 2023 +0000",
+ "message": "1.20.0"
+},
+
+{
+ "commit": "2f511c9087e187d033d54df14b22abfd9cc9b9e8",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Thu Jul 27 00:56:59 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "cda60a3e8849d3db0783a57f85714949edc63dc2",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Thu Jul 27 00:54:53 2023 -0300",
+ "message": "Merge-pull-request-28-from-felipe-frade-release"
+},
+
+{
+ "commit": "2aa13c50534877025bfc5b89ae3a45bff1298dfa",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Thu Jul 27 03:51:42 2023 +0000",
+ "message": "1.19.0"
+},
+
+{
+ "commit": "4ae3f6bf885067b51c910e482b3506ea3cdd54c7",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Thu Jul 27 00:50:40 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "3095037d3c761c3103fc1751a2913513d72112f9",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Thu Jul 27 00:47:10 2023 -0300",
+ "message": "Merge-pull-request-27-from-felipe-frade-release"
+},
+
+{
+ "commit": "30d5a5a6492cde432a7535e90ea33555cbce186b",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Thu Jul 27 03:46:49 2023 +0000",
+ "message": "1.18.0"
+},
+
+{
+ "commit": "2826e329a0cad38279da1a57762dc83642aa82a2",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Thu Jul 27 00:45:29 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "21a0e1598f72849f8d707643dfa486f597236b0d",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Thu Jul 27 00:43:04 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "5390533c8a0f4a162df7ba238d996aa7907f8f5d",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Thu Jul 27 00:40:31 2023 -0300",
+ "message": "Merge-pull-request-26-from-felipe-frade-release"
+},
+
+{
+ "commit": "c133dd59be9a011633823eaa89bf10e86d2e6944",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Thu Jul 27 03:39:12 2023 +0000",
+ "message": "1.17.2"
+},
+
+{
+ "commit": "c047f49f68545cf276a65e488a014e16dbc0ccee",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Thu Jul 27 00:38:18 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "5d1bbc46b25b2374cc18607b8d0a075df5e9d356",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Thu Jul 27 00:38:01 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "a805092bee5e5137a2f2464f6f8c4f49d8605657",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Thu Jul 27 00:36:09 2023 -0300",
+ "message": "Merge-pull-request-25-from-felipe-frade-release"
+},
+
+{
+ "commit": "256c6bcd9abd0728918cef76096ea3f57ada6585",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Thu Jul 27 03:35:43 2023 +0000",
+ "message": "1.17.1"
+},
+
+{
+ "commit": "338a87b965dc78f1fadfbbd631ef93ae4d133f09",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Thu Jul 27 00:35:04 2023 -0300",
+ "message": "fix-delete-file"
+},
+
+{
+ "commit": "3b4f786fdbda20872e978c06e5d88934e905ddd2",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Thu Jul 27 00:33:35 2023 -0300",
+ "message": "Create-changelog-data.json"
+},
+
+{
+ "commit": "f757e270364e0032578bed656f7a0463f25822f5",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Thu Jul 27 00:32:57 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "d51d8ef795ef15ba8b1dd7f94217689195e63959",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Wed Jul 26 20:30:55 2023 +0000",
+ "message": "1.17.0"
+},
+
+{
+ "commit": "90a0450320679c202c01d2a11feb5765bddc7c7e",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 17:30:20 2023 -0300",
+ "message": "Update-new_release_package.yml"
+},
+
+{
+ "commit": "b679ada2eea7c9184327ce687f8f1a3e916916cb",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Wed Jul 26 20:02:17 2023 +0000",
+ "message": "1.16.0"
+},
+
+{
+ "commit": "2a3d189fd335bfbf5d17f2f6e44aa0ff5594514b",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 17:01:29 2023 -0300",
+ "message": "feat-IN-3-novo-teste"
+},
+
+{
+ "commit": "f87a86b48505f47a9d4f846d2896da1de106ad7b",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 17:01:17 2023 -0300",
+ "message": "fix-IN-3-novo-teste"
+},
+
+{
+ "commit": "9ea1690eade464a18d760241c21a7bc2f3515f7f",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Wed Jul 26 19:59:57 2023 +0000",
+ "message": "1.15.0"
+},
+
+{
+ "commit": "888949919dd36ad2af7ba8ed50d6af7eac12c258",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 16:59:27 2023 -0300",
+ "message": "Update-new_release_package.yml"
+},
+
+{
+ "commit": "08d85878bd39e7bbe8390c3f9098db66e95f98a5",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Wed Jul 26 19:56:10 2023 +0000",
+ "message": "1.14.0"
+},
+
+{
+ "commit": "863cf1b1356867e717600b3829b322bb1d7345e9",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 16:55:37 2023 -0300",
+ "message": "Update-new_release_package.yml"
+},
+
+{
+ "commit": "06f69ae1b9f529b77fc75a9fd9f5f7379ec0af7e",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 16:53:55 2023 -0300",
+ "message": "Create-update_file.yml"
+},
+
+{
+ "commit": "716063ab9ecbe2ea1a306dfb4169bd74090a5cc5",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 16:52:55 2023 -0300",
+ "message": "Create-update_changelog"
+},
+
+{
+ "commit": "a637545417085ed336e3458f76b19f2c31376575",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 16:52:33 2023 -0300",
+ "message": "Delete-update_changelog.yml"
+},
+
+{
+ "commit": "39b52dd115b7a0c7a6ba4471613ed6ed8381b2d9",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 16:49:38 2023 -0300",
+ "message": "Update-update_changelog.yml"
+},
+
+{
+ "commit": "8265b454641379f6f5698c236e1ebd6c0b12be74",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 16:48:18 2023 -0300",
+ "message": "Update-update_changelog.yml"
+},
+
+{
+ "commit": "f4d83d795928d4842fcd5b140483b534f53ebd55",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 16:28:10 2023 -0300",
+ "message": "Merge-pull-request-24-from-felipe-frade-release"
+},
+
+{
+ "commit": "2f44aaa9f52d2c388a598d64dcf28b1aa0f8658e",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Wed Jul 26 19:27:19 2023 +0000",
+ "message": "1.13.0"
+},
+
+{
+ "commit": "437c002f05134469a3bb2537b7a76464b5f4e309",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 16:26:38 2023 -0300",
+ "message": "fix-IN-2-novo-teste"
+},
+
+{
+ "commit": "42c619e226e5e595e293980206618389790562e2",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 16:26:22 2023 -0300",
+ "message": "feat-IN-2-novo-teste"
+},
+
+{
+ "commit": "13ccc319e667d3f0fb1ba258e8e06fd5b22cea57",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 16:25:51 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "c7764e533516d0dcff4f058860ca945e9b83148e",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 16:25:26 2023 -0300",
+ "message": "Update-new_release_package.yml"
+},
+
+{
+ "commit": "e01b94edf372bb5d8e673cf0e80c313977feef98",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Wed Jul 26 19:20:53 2023 +0000",
+ "message": "1.12.0"
+},
+
+{
+ "commit": "e7e25b861b278729593ad96524e0330012e7962e",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 16:20:04 2023 -0300",
+ "message": "Update-new_release_package.yml"
+},
+
+{
+ "commit": "b5f90f656c315370ae22b59a4176694168fe9426",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 16:02:56 2023 -0300",
+ "message": "Update-README.md"
+},
+
+{
+ "commit": "e2249689301e8fc53f91485789a91475869a8f86",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 15:41:52 2023 -0300",
+ "message": "Update-new_release_package.yml"
+},
+
+{
+ "commit": "4e20b617980864f27a64e8e94d843f7ffbae2e1f",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 15:40:55 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "b8a935d0fbda2bb9aded7ab2ed950d5670690a52",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 15:30:15 2023 -0300",
+ "message": "Merge-pull-request-23-from-felipe-frade-release"
+},
+
+{
+ "commit": "939de9f6393c436e9455b1be3ddc3969dd2bd601",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 15:29:49 2023 -0300",
+ "message": "feat-IN-1-nova"
+},
+
+{
+ "commit": "901a2af90131608a6fc98069b2e80e70aa26b12d",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 15:29:04 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "fa5151a94e5e06f50fce4ff3ad08b7ca4e4ba13f",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 15:23:11 2023 -0300",
+ "message": "Merge-pull-request-22-from-felipe-frade-release"
+},
+
+{
+ "commit": "42d71431ca5fbc45b485445a0ab96e5ced6d338c",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 15:22:55 2023 -0300",
+ "message": "feat-IN-1-nova"
+},
+
+{
+ "commit": "02f9f9eaa912585e4702366bb4e6691416f12422",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 15:22:06 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "e8c4284b6a2cafe34a1420fec5e86eb940954d38",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 15:19:22 2023 -0300",
+ "message": "Merge-pull-request-21-from-felipe-frade-release"
+},
+
+{
+ "commit": "ff958233191869650926355cf66293219dbff5ca",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Wed Jul 26 18:18:02 2023 +0000",
+ "message": "1.11.0"
+},
+
+{
+ "commit": "6e1f68f691ea608ddcd3a299b11161beba670ceb",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 15:17:15 2023 -0300",
+ "message": "feat-IN-1-nova"
+},
+
+{
+ "commit": "df792195c390ad433d5465ac447ddff1499eb56e",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 15:16:29 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "f0b03dec5c248112e231a9848c5db5561e08a118",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 15:15:32 2023 -0300",
+ "message": "Merge-pull-request-20-from-felipe-frade-release"
+},
+
+{
+ "commit": "ea2fb8a482f6dd24c9f662a8fdc536abe4409a7f",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Wed Jul 26 18:14:24 2023 +0000",
+ "message": "1.10.1"
+},
+
+{
+ "commit": "eb9ed8b24a932bdb008e1eb0e7c508c35a402b49",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 15:13:47 2023 -0300",
+ "message": "fix-A-1-novo-teste"
+},
+
+{
+ "commit": "2621cae643e8946061cba9c6448cbcac3e498b77",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Wed Jul 26 15:13:16 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "89dcce5778cc7d8ed69b1d77b3b24b1f203b5c87",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 17:41:37 2023 -0300",
+ "message": "Merge-pull-request-19-from-felipe-frade-release"
+},
+
+{
+ "commit": "fea7398f28bf66907e7c2d54e50361b6383b5551",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 17:41:17 2023 -0300",
+ "message": "Update-CHANGELOG.md"
+},
+
+{
+ "commit": "97402dc92f9e6f5dc7704ca82908a9aa4c173a61",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 17:39:15 2023 -0300",
+ "message": "Merge-pull-request-18-from-felipe-frade-release"
+},
+
+{
+ "commit": "51ddba3a1b39927a9c52cffbf09c61c2e6d19edc",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 17:38:21 2023 -0300",
+ "message": "Update-changelog-template.hbs"
+},
+
+{
+ "commit": "d8a303b0f907688429468900d9f064685254aa22",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 17:35:30 2023 -0300",
+ "message": "Update-package.json"
+},
+
+{
+ "commit": "347ba7efe799443014683334b638204859ed8558",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Mon Jul 24 19:41:51 2023 +0000",
+ "message": "1.10.0"
+},
+
+{
+ "commit": "a250405d3cca169078ee6d837c2ee88cca482c67",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 16:41:00 2023 -0300",
+ "message": "fix-A-1-novo-teste"
+},
+
+{
+ "commit": "bfb2e8d19599b167596237928a1d598778318e6e",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 16:40:45 2023 -0300",
+ "message": "feat-A-1-novo-teste"
+},
+
+{
+ "commit": "f4b7d8474f41dba51e1d46bd62f845891609af5e",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 16:40:17 2023 -0300",
+ "message": "Update-package.json"
+},
+
+{
+ "commit": "70bc08917e297c194d412f57d2406f608a496c9f",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 16:15:15 2023 -0300",
+ "message": "Update-new_release_package.yml"
+},
+
+{
+ "commit": "fca55743af01e26577b3946c44c382a2b68db83b",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 16:00:35 2023 -0300",
+ "message": "Merge-pull-request-16-from-felipe-frade-release"
+},
+
+{
+ "commit": "655a5f42262d2a740285429950f64fd0e86742dc",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Mon Jul 24 18:58:10 2023 +0000",
+ "message": "1.9.0"
+},
+
+{
+ "commit": "c94b670a5c1fc260b6927fe387b8902394cbd1f7",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:57:36 2023 -0300",
+ "message": "feat-A-1-novo-teste"
+},
+
+{
+ "commit": "02f4cc8adda7349c89872e4093f4a673bdbefff4",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:57:26 2023 -0300",
+ "message": "fix-A-1-novo-teste"
+},
+
+{
+ "commit": "2dfb4a37aa5e6cb0c9795801173f36fcd70adfb6",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:57:06 2023 -0300",
+ "message": "fix-A-1-novo-teste"
+},
+
+{
+ "commit": "4dc84262a32acd47a9fd739018628a487331d6c4",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:56:56 2023 -0300",
+ "message": "feat-A-1-novo-teste"
+},
+
+{
+ "commit": "876d3171e0530a9611ca9aff189b055e512614a0",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:51:28 2023 -0300",
+ "message": "Merge-pull-request-15-from-felipe-frade-release"
+},
+
+{
+ "commit": "28be5dc4f987588b5e6d0a43bb72ff59a32c5912",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:51:10 2023 -0300",
+ "message": "fix-A-1-novo-teste"
+},
+
+{
+ "commit": "7049ae2a846ecbef624f18926f91232553a8ace7",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:50:52 2023 -0300",
+ "message": "feat-A-1-novo-teste"
+},
+
+{
+ "commit": "546f5690615d44dd0fedbdcf75aa49e731dcffa5",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:49:52 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "5aa0ed11c66d8d4dcfbd9ca2805e89b14e78e522",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:37:00 2023 -0300",
+ "message": "Merge-pull-request-14-from-felipe-frade-release"
+},
+
+{
+ "commit": "15f31f1938af547128574edb12ab5a6fb8595890",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Mon Jul 24 18:36:10 2023 +0000",
+ "message": "1.8.0"
+},
+
+{
+ "commit": "6a1b19cce1ec97079f8c5860be1586a12aa31800",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:35:31 2023 -0300",
+ "message": "fix-A-1-novo-teste"
+},
+
+{
+ "commit": "7e34760edac59be7c42b3600b3f533ca16be69c1",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:35:16 2023 -0300",
+ "message": "feat-A-1-novo-teste"
+},
+
+{
+ "commit": "2e6408b32c2c6515877b853b5a35445b832e329b",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:35:08 2023 -0300",
+ "message": "feat-A-1-novo-teste"
+},
+
+{
+ "commit": "72a2a5dc02643274df22f07cbf7543b4ef34fda7",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:34:39 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "c2e693648e63f9320cc8cc09a5fabd3b91459019",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:27:35 2023 -0300",
+ "message": "Merge-pull-request-13-from-felipe-frade-release"
+},
+
+{
+ "commit": "27c1046adb9afb330739d534be25820625350282",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Mon Jul 24 18:27:02 2023 +0000",
+ "message": "1.7.0"
+},
+
+{
+ "commit": "a840724154e8e7d56fc2d2cc38eb52a680a8d891",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:26:22 2023 -0300",
+ "message": "feat-A-1-novo-teste"
+},
+
+{
+ "commit": "81dc7709949403e9b49cdfc7f6c4f4f9385afa5a",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:26:09 2023 -0300",
+ "message": "fix-A-1-novo-teste"
+},
+
+{
+ "commit": "08ffb671ec3aae6e7c16de8882e8178f34770f31",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:23:43 2023 -0300",
+ "message": "Merge-pull-request-12-from-felipe-frade-release"
+},
+
+{
+ "commit": "63d6f65258eabf3252167d9c147aa07c3de9a231",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Mon Jul 24 18:22:43 2023 +0000",
+ "message": "1.6.0"
+},
+
+{
+ "commit": "cae7066a49e72b8d48fbd4cb6e4f0387d38e3161",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:20:04 2023 -0300",
+ "message": "Merge-pull-request-11-from-felipe-frade-release"
+},
+
+{
+ "commit": "1560b6a7d95e6df8e7ebb48648cd0c2ed0bb0429",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:19:46 2023 -0300",
+ "message": "Update-README.md"
+},
+
+{
+ "commit": "1673e37a2c131cf4ab2042bf39dbe4c27a3db0e0",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:19:33 2023 -0300",
+ "message": "feat-A-1-novo-teste-3"
+},
+
+{
+ "commit": "f91ef183194eda4de963f81bc804a6d16fe2fadd",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:12:50 2023 -0300",
+ "message": "Update-changelog-template.hbs"
+},
+
+{
+ "commit": "efffef0766143da9d1a27150fc2cf3d7449faee6",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:04:22 2023 -0300",
+ "message": "Merge-pull-request-10-from-felipe-frade-release"
+},
+
+{
+ "commit": "6dce7351fe6bc338f9f8f14b3a06d2d0853e0806",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Mon Jul 24 18:03:48 2023 +0000",
+ "message": "1.5.0"
+},
+
+{
+ "commit": "c31c303f4095e408807a454e7305833ecc603f96",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:03:14 2023 -0300",
+ "message": "feat-A-1-novo-teste-3"
+},
+
+{
+ "commit": "19f9af70d5d21e99add74a1da670e1b6655ccb5c",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 15:03:03 2023 -0300",
+ "message": "fix-A-1-corrigindo-erro"
+},
+
+{
+ "commit": "b8bf45e5c0013c43963eb84d60851999e9694829",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 14:59:57 2023 -0300",
+ "message": "Update-package.json"
+},
+
+{
+ "commit": "b9f2f9e8283a353374cb5750bd3954993ebc6c06",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 11:21:35 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "320790121f98c594dc9a376286717176dfd35e29",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 11:10:37 2023 -0300",
+ "message": "Merge-pull-request-9-from-felipe-frade-release"
+},
+
+{
+ "commit": "43d8e12a698b7dbfb5c98bb6ba51f87c4d4f2ba2",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Mon Jul 24 14:07:42 2023 +0000",
+ "message": "1.4.0"
+},
+
+{
+ "commit": "0e41bdb82006da8b16fc1c3076f423486f017d80",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 11:06:11 2023 -0300",
+ "message": "fix-A-1-corrigindo-erro"
+},
+
+{
+ "commit": "1ee7bb897b1e1e1659b3bc9bc6b38599ee6c4eec",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 11:05:39 2023 -0300",
+ "message": "Update-README.md"
+},
+
+{
+ "commit": "49002301057ff7ee2b1bb8dd7f841924fbb39552",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 11:05:27 2023 -0300",
+ "message": "feat-A-1-novo-teste-2"
+},
+
+{
+ "commit": "897c55bc25889a49db12017a0e16d72b5069cec1",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 11:04:38 2023 -0300",
+ "message": "feat-A-1-novo-teste"
+},
+
+{
+ "commit": "deb6e24be83d9ef73b8f2f7c9960e857c6a6a4fc",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:56:52 2023 -0300",
+ "message": "Update-update_changelog.yml"
+},
+
+{
+ "commit": "ab006588ddd22f4319732edb14ab2ef9a6f69ecc",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:55:05 2023 -0300",
+ "message": "Create-update_changelog.yml"
+},
+
+{
+ "commit": "74d7da5d7c4c525008485ca5aac37bd7d0135e61",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:46:31 2023 -0300",
+ "message": "Merge-pull-request-8-from-felipe-frade-release"
+},
+
+{
+ "commit": "13ee863e90f19454f0f3ab9c0d7e8302fd3a13bc",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:46:14 2023 -0300",
+ "message": "Update-README.md"
+},
+
+{
+ "commit": "8527ad3d1346610e18c8d3864ad1f141d1d537e6",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:45:38 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "5f21c240252a140052eda7d0358647c1ecbfe1e4",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:41:21 2023 -0300",
+ "message": "Merge-pull-request-7-from-felipe-frade-release"
+},
+
+{
+ "commit": "17feedf667586329ad7a873e71324958609c5275",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:41:04 2023 -0300",
+ "message": "Update-README.md"
+},
+
+{
+ "commit": "a7720a2db849293009ca645d011ccbfcb94f82fc",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:40:43 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "0619f1cdc680c1dcbfac0b8c5b070b7926ea8242",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:39:39 2023 -0300",
+ "message": "Merge-pull-request-6-from-felipe-frade-release"
+},
+
+{
+ "commit": "65a184950e7a031b1dd7ccbf18bb6e60d26bf36c",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:39:24 2023 -0300",
+ "message": "Update-README.md"
+},
+
+{
+ "commit": "bed531772045b4cc6e4a1dc9fc5d45c57928d79d",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:38:10 2023 -0300",
+ "message": "Update-package.json"
+},
+
+{
+ "commit": "03e24dd8937d62c1b211b8e9765f47e78cc89cd9",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:36:02 2023 -0300",
+ "message": "Merge-pull-request-5-from-felipe-frade-release"
+},
+
+{
+ "commit": "f92eb01eee519e0f1677d06e6a0c9acfc8b3abff",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Mon Jul 24 13:33:43 2023 +0000",
+ "message": "1.3.1"
+},
+
+{
+ "commit": "9bd83ac426b1ce59a41ec63565325d966ca75616",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:32:51 2023 -0300",
+ "message": "Update-new_release_package.yml"
+},
+
+{
+ "commit": "ed1c4837913e70699262ed0bac738cba4f4025c0",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Mon Jul 24 13:30:02 2023 +0000",
+ "message": "1.3.0"
+},
+
+{
+ "commit": "19ffda4f089418fa680f99ebfc34aff98d0fc9ed",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:27:56 2023 -0300",
+ "message": "fix-IN-0-ajustando"
+},
+
+{
+ "commit": "de3763e44b7fa6cb33328712bde2419b1adfadd9",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:22:46 2023 -0300",
+ "message": "Delete-update_release_package.yml"
+},
+
+{
+ "commit": "743de1b1d062fffca1bf0be5dae51fce4eca7c1a",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:22:02 2023 -0300",
+ "message": "Create-new_release_package.yml"
+},
+
+{
+ "commit": "5905eb056eccc0630d6bf1af92ca6555ed19ec93",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:18:59 2023 -0300",
+ "message": "Update-update_release_package.yml"
+},
+
+{
+ "commit": "fe7f0dfc563589b3056d6f4cbce9c59b742209a0",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:14:19 2023 -0300",
+ "message": "Rename-release_package.yml-to-update_release_package.yml"
+},
+
+{
+ "commit": "d9fb68e6a40a06080d509e7b531b48554c770b5b",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Mon Jul 24 10:02:31 2023 -0300",
+ "message": "Update-release_package.yml"
+},
+
+{
+ "commit": "f4dd00d410cd2833f06cf7943d72c6a863414095",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "felipe_ted2@outlook.com",
+ "date": "Mon Jul 24 10:00:15 2023 -0300",
+ "message": "feat-TEST-2-update"
+},
+
+{
+ "commit": "dd7c7df116a052e11d63abf97e5caaccf9f6e49a",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "felipe_ted2@outlook.com",
+ "date": "Mon Jul 24 09:56:10 2023 -0300",
+ "message": "feat-TEST-2-otimo-teste"
+},
+
+{
+ "commit": "568d7a01691635f6bd00f34bf7bf2148a90f7b5d",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "felipe_ted2@outlook.com",
+ "date": "Mon Jul 24 09:40:17 2023 -0300",
+ "message": "feat-TEST-1-melhorias-actions"
+},
+
+{
+ "commit": "de56aa21644d157a199c602a40adf07c076faf10",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "felipe_ted2@outlook.com",
+ "date": "Sat Jul 22 16:20:50 2023 -0300",
+ "message": "chore-usando-ferramenta-do-changelog"
+},
+
+{
+ "commit": "23216c18897a5e7f1c98fca98336f3bcc994bb29",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Sat Jul 22 15:00:26 2023 -0300",
+ "message": "Merge-pull-request-4-from-felipe-frade-release"
+},
+
+{
+ "commit": "e3e33ad80fa729e8ebd6308efbc8e2bda603fc01",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Sat Jul 22 17:59:38 2023 +0000",
+ "message": "1.2.0"
+},
+
+{
+ "commit": "af355fbae861e306a679ef9e206c1357aa9bda6d",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Sat Jul 22 14:59:08 2023 -0300",
+ "message": "fix-IN-1-nova-linha"
+},
+
+{
+ "commit": "4537f6189f94aa19834b8310c3f8e8447477b120",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Sat Jul 22 14:58:53 2023 -0300",
+ "message": "feat-IN-1-nova-linha"
+},
+
+{
+ "commit": "9bad96681a3e14c15513bdd285176e4fbd302e92",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Sat Jul 22 14:39:01 2023 -0300",
+ "message": "Update-release_package.yml"
+},
+
+{
+ "commit": "f0257aac10922e382a6387b034a77c0b14edc39f",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Sat Jul 22 14:36:43 2023 -0300",
+ "message": "Merge-pull-request-3-from-felipe-frade-release"
+},
+
+{
+ "commit": "89a6091b1453ca19556e8dc9957ef2f59f2883eb",
+ "author": "felipe-frade",
+ "author_email": "felipe.so.dev@gmail.com",
+ "date": "Sat Jul 22 17:35:52 2023 +0000",
+ "message": "1.1.0"
+},
+
+{
+ "commit": "4d7951c57b646140831e8e3bb05ec5aa517971c9",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Jul 21 18:36:54 2023 -0300",
+ "message": "Merge-pull-request-2-from-felipe-frade-main"
+},
+
+{
+ "commit": "2e94519d10fc5e0123f3601776e6efe4aca470b9",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Jul 21 18:35:23 2023 -0300",
+ "message": "Update-release_package.yml"
+},
+
+{
+ "commit": "82f0925048de2fdb36603d38b159f24f0d8f5e0a",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Jul 21 18:32:34 2023 -0300",
+ "message": "feat-nova-linha"
+},
+
+{
+ "commit": "904418e5246170a76fab4b8bc47c39d6e32c45f5",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Jul 21 18:32:18 2023 -0300",
+ "message": "fix-ajustando"
+},
+
+{
+ "commit": "c3f98538d76da12169d529f904512e2c479b4566",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Jul 21 18:31:24 2023 -0300",
+ "message": "Update-on_pull_request_main.yml"
+},
+
+{
+ "commit": "09e1501e9feca8aeec6c5765fe467df5bb0a4136",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Jul 21 18:30:55 2023 -0300",
+ "message": "Update-release_package.yml"
+},
+
+{
+ "commit": "c64139abb9da2efbb5994cc8a729fd421739c9f0",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "felipe_ted2@outlook.com",
+ "date": "Fri Jul 21 18:26:28 2023 -0300",
+ "message": "add"
+},
+
+{
+ "commit": "33828660c1189297b0ef7fdc3c305e960a5c51c1",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Jul 21 18:23:05 2023 -0300",
+ "message": "feat-workflows"
+},
+
+{
+ "commit": "0813ec935db238bb6520e7397e0df0c56c0df1ce",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Jul 21 18:21:02 2023 -0300",
+ "message": "Create-main.yml"
+},
+
+{
+ "commit": "bae95eac8f1ca67b49652e24de9ac40ae644c2a4",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Jul 21 18:18:09 2023 -0300",
+ "message": "Create-package.json"
+},
+
+{
+ "commit": "fdb79b56528ce3eb3ffcdc11f372eacce2f28a13",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Jul 21 18:17:06 2023 -0300",
+ "message": "Update-release-drafter.yml"
+},
+
+{
+ "commit": "9888811d4c291f2bc2edc34421b796d301c279d5",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Jul 21 18:10:03 2023 -0300",
+ "message": "feat-new-version"
+},
+
+{
+ "commit": "3acdf5832fc5837940af640a016e05b1a59d40cd",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Jul 21 18:09:14 2023 -0300",
+ "message": "feat-on-push-to-main"
+},
+
+{
+ "commit": "2f1bb7ffb09c085fc74ad58e5642c6aa950cf9e9",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Jul 21 18:07:55 2023 -0300",
+ "message": "feat-add-file"
+},
+
+{
+ "commit": "cbe1366dac4d915b11ac1ec3bbc345df1d8e32b4",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Jul 21 18:07:06 2023 -0300",
+ "message": "Initial-commit"
+},
